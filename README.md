@@ -45,10 +45,10 @@ No regression or machine learning model was used. The analysis relies on:
 
 ## Main Outputs
 
-- `outputs/final_joined_dataset.csv`
-- `outputs/poverty_summary.csv`
-- `outputs/education_summary.csv`
-- `outputs/top_overdose_localities.csv`
+- `final_joined_dataset.csv`
+- `poverty_summary.csv`
+- `education_summary.csv`
+- `top_overdose_localities.csv`
 
 ## Summary of Findings
 
