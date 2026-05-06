@@ -1,0 +1,5 @@
+education_bucket,locality_count,avg_overdose_ed_rate,avg_hs_or_less_rate,min_overdose_ed_rate,max_overdose_ed_rate
+1. Lower HS-or-less: <25%,18,34.99,20.04,20.7,52.4
+2. Moderate HS-or-less: 25% to <35%,25,38.97,31.01,16.1,76.2
+3. High HS-or-less: 35% to <45%,30,37.98,39.93,19.6,68.3
+4. Very high HS-or-less: 45%+,16,40.16,50.03,14.7,79.7

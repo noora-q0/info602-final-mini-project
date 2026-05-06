@@ -1,0 +1,90 @@
+fips,vdh_geography,acs_county_name,overdose_ed_count,overdose_ed_rate,poverty_rate,hs_or_less_rate,poverty_bucket,education_bucket,total_families,families_below_poverty,hs_or_less_families
+51011,Appomattox,"Appomattox County, Virginia",35.0,60.3,9.92,42.27,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,4504.0,447.0,1904.0
+51111,Lunenburg,"Lunenburg County, Virginia",20.0,40.1,12.67,52.47,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,2880.0,365.0,1511.0
+51036,Charles City,"Charles City County, Virginia",12.0,33.1,5.91,49.4,1. Low poverty: <6%,4. Very high HS-or-less: 45%+,1828.0,108.0,903.0
+51021,Bland,"Bland County, Virginia",17.0,60.1,10.17,48.76,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,1534.0,156.0,748.0
+51187,Warren,"Warren County, Virginia",109.0,47.9,9.59,38.95,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,10538.0,1011.0,4105.0
+51735,Poquoson,"Poquoson city, Virginia",16.0,36.3,3.86,22.94,1. Low poverty: <6%,1. Lower HS-or-less: <25%,3805.0,147.0,873.0
+51147,Prince Edward,"Prince Edward County, Virginia",58.0,35.3,11.43,31.15,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,4453.0,509.0,1387.0
+51073,Gloucester,"Gloucester County, Virginia",82.0,39.7,3.17,34.13,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,10571.0,335.0,3608.0
+51700,Newport News,"Newport News city, Virginia",404.0,36.0,10.85,31.76,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,43361.0,4703.0,13770.0
+51139,Page,"Page County, Virginia",42.0,24.4,9.0,54.06,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,6086.0,548.0,3290.0
+51135,Nottoway,"Nottoway County, Virginia",46.0,44.0,9.83,45.98,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,3469.0,341.0,1595.0
+51013,Arlington,"Arlington County, Virginia",217.0,41.1,4.31,12.31,1. Low poverty: <6%,1. Lower HS-or-less: <25%,49498.0,2135.0,6094.0
+51760,Richmond City,"Richmond city, Virginia",1168.0,69.6,12.45,30.2,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,45734.0,5693.0,13810.0
+51027,Buchanan,"Buchanan County, Virginia",69.0,61.5,17.5,59.42,4. Very high poverty: 14%+,4. Very high HS-or-less: 45%+,4931.0,863.0,2930.0
+51083,Halifax,"Halifax County, Virginia",75.0,39.5,11.9,42.77,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,8440.0,1004.0,3610.0
+51057,Essex,"Essex County, Virginia",12.0,14.7,6.32,50.38,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,2485.0,157.0,1252.0
+51043,Clarke,"Clarke County, Virginia",17.0,30.5,3.57,22.11,1. Low poverty: <6%,1. Lower HS-or-less: <25%,4035.0,144.0,892.0
+51630,Fredericksburg,"Fredericksburg city, Virginia",52.0,27.7,8.78,26.57,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,5720.0,502.0,1520.0
+51181,Surry,"Surry County, Virginia",6.0,17.1,8.11,30.96,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,2022.0,164.0,626.0
+51009,Amherst,"Amherst County, Virginia",80.0,68.3,7.64,41.5,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,8032.0,614.0,3333.0
+51001,Accomack,"Accomack County, Virginia",61.0,32.5,10.73,44.5,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,9205.0,988.0,4096.0
+51510,Alexandria,"Alexandria city, Virginia",166.0,34.7,5.84,17.59,1. Low poverty: <6%,1. Lower HS-or-less: <25%,34764.0,2030.0,6116.0
+51007,Amelia,"Amelia County, Virginia",21.0,25.8,4.46,43.81,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,4147.0,185.0,1817.0
+51017,Bath,"Bath County, Virginia",13.0,38.1,14.97,37.61,4. Very high poverty: 14%+,3. High HS-or-less: 35% to <45%,1069.0,160.0,402.0
+51019,Bedford,"Bedford County, Virginia",138.0,48.5,4.98,29.61,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,23058.0,1149.0,6827.0
+51023,Botetourt,"Botetourt County, Virginia",46.0,37.2,2.87,34.89,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,9124.0,262.0,3183.0
+51025,Brunswick,"Brunswick County, Virginia",25.0,25.4,11.4,48.92,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,3990.0,455.0,1952.0
+51029,Buckingham,"Buckingham County, Virginia",23.0,32.6,10.41,53.76,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,4074.0,424.0,2190.0
+51031,Campbell,"Campbell County, Virginia",83.0,51.0,7.74,34.19,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,14610.0,1131.0,4995.0
+51033,Caroline,"Caroline County, Virginia",69.0,36.2,8.05,41.28,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,8135.0,655.0,3358.0
+51035,Carroll,"Carroll County, Virginia",34.0,37.6,10.52,44.1,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,8390.0,883.0,3700.0
+51037,Charlotte,"Charlotte County, Virginia",35.0,49.5,18.86,37.34,4. Very high poverty: 14%+,3. High HS-or-less: 35% to <45%,2884.0,544.0,1077.0
+51550,Chesapeake,"Chesapeake city, Virginia",456.0,42.4,7.08,21.35,2. Moderate poverty: 6% to <10%,1. Lower HS-or-less: <25%,66578.0,4714.0,14213.0
+51045,Craig,"Craig County, Virginia",11.0,55.1,10.47,36.93,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,1270.0,133.0,469.0
+51047,Culpeper,"Culpeper County, Virginia",108.0,31.9,6.31,36.57,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,14303.0,902.0,5230.0
+51049,Cumberland,"Cumberland County, Virginia",18.0,42.9,3.05,36.62,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,2717.0,83.0,995.0
+51051,Dickenson,"Dickenson County, Virginia",35.0,37.9,13.28,52.26,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,4051.0,538.0,2117.0
+51053,Dinwiddie,"Dinwiddie County, Virginia",38.0,31.0,9.09,38.42,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,7379.0,671.0,2835.0
+51061,Fauquier,"Fauquier County, Virginia",74.0,25.5,4.89,24.22,1. Low poverty: <6%,1. Lower HS-or-less: <25%,19739.0,965.0,4781.0
+51063,Floyd,"Floyd County, Virginia",19.0,28.6,6.29,38.93,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,4279.0,269.0,1666.0
+51065,Fluvanna,"Fluvanna County, Virginia",45.0,44.6,5.19,21.37,1. Low poverty: <6%,1. Lower HS-or-less: <25%,7549.0,392.0,1613.0
+51067,Franklin County,"Franklin County, Virginia",91.0,34.3,8.9,37.53,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,15674.0,1395.0,5883.0
+51071,Giles,"Giles County, Virginia",45.0,39.2,5.46,42.5,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,4325.0,236.0,1838.0
+51075,Goochland,"Goochland County, Virginia",24.0,25.3,3.34,18.89,1. Low poverty: <6%,1. Lower HS-or-less: <25%,7671.0,256.0,1449.0
+51079,Greene,"Greene County, Virginia",47.0,35.8,11.47,34.45,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,5762.0,661.0,1985.0
+51650,Hampton,"Hampton city, Virginia",280.0,37.0,9.33,31.16,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,34116.0,3184.0,10631.0
+51085,Hanover,"Hanover County, Virginia",149.0,32.2,3.85,22.16,1. Low poverty: <6%,1. Lower HS-or-less: <25%,30755.0,1185.0,6815.0
+51087,Henrico,"Henrico County, Virginia",828.0,52.4,6.16,22.7,2. Moderate poverty: 6% to <10%,1. Lower HS-or-less: <25%,86590.0,5336.0,19655.0
+51091,Highland,"Highland County, Virginia","",33.6,2.19,43.66,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,639.0,14.0,279.0
+51093,Isle of Wight,"Isle of Wight County, Virginia",62.0,33.3,5.18,29.7,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,11066.0,573.0,3287.0
+51095,James City,"James City County, Virginia",154.0,32.0,3.89,15.08,1. Low poverty: <6%,1. Lower HS-or-less: <25%,22572.0,878.0,3403.0
+51097,King and Queen,"King and Queen County, Virginia",9.0,21.1,11.28,42.96,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,2074.0,234.0,891.0
+51099,King George,"King George County, Virginia",19.0,16.1,5.01,28.93,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,7341.0,368.0,2124.0
+51101,King William,"King William County, Virginia",38.0,40.0,4.62,37.28,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,5395.0,249.0,2011.0
+51103,Lancaster,"Lancaster County, Virginia",12.0,20.5,6.34,29.17,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,3168.0,201.0,924.0
+51105,Lee,"Lee County, Virginia",52.0,38.8,22.54,41.73,4. Very high poverty: 14%+,3. High HS-or-less: 35% to <45%,5426.0,1223.0,2264.0
+51107,Loudoun,"Loudoun County, Virginia",411.0,33.4,3.11,12.66,1. Low poverty: <6%,1. Lower HS-or-less: <25%,111950.0,3480.0,14171.0
+51109,Louisa,"Louisa County, Virginia",87.0,39.8,6.77,34.53,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,11351.0,769.0,3920.0
+51680,Lynchburg,"Lynchburg city, Virginia",304.0,76.2,12.27,26.62,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,16339.0,2005.0,4349.0
+51113,Madison,"Madison County, Virginia",19.0,33.5,8.54,38.85,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,3889.0,332.0,1511.0
+51115,Mathews,"Mathews County, Virginia",8.0,19.6,4.09,35.29,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,2301.0,94.0,812.0
+51117,Mecklenburg,"Mecklenburg County, Virginia",68.0,38.9,11.23,38.68,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,7962.0,894.0,3080.0
+51119,Middlesex,"Middlesex County, Virginia",14.0,20.7,5.89,24.96,1. Low poverty: <6%,1. Lower HS-or-less: <25%,3173.0,187.0,792.0
+51125,Nelson,"Nelson County, Virginia",33.0,49.6,8.23,29.95,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,3826.0,315.0,1146.0
+51127,New Kent,"New Kent County, Virginia",53.0,37.7,3.58,20.98,1. Low poverty: <6%,1. Lower HS-or-less: <25%,7422.0,266.0,1557.0
+51710,Norfolk,"Norfolk city, Virginia",655.0,45.8,12.07,31.04,3. High poverty: 10% to <14%,2. Moderate HS-or-less: 25% to <35%,52688.0,6361.0,16355.0
+51131,Northampton,"Northampton County, Virginia",18.0,24.7,11.95,36.39,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,3506.0,419.0,1276.0
+51133,Northumberland,"Northumberland County, Virginia",20.0,20.4,5.97,30.48,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,3553.0,212.0,1083.0
+51137,Orange,"Orange County, Virginia",57.0,30.9,7.61,36.87,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,10408.0,792.0,3837.0
+51141,Patrick,"Patrick County, Virginia",23.0,52.6,8.4,46.41,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,4928.0,414.0,2287.0
+51740,Portsmouth,"Portsmouth city, Virginia",465.0,63.1,14.1,33.86,4. Very high poverty: 14%+,2. Moderate HS-or-less: 25% to <35%,24164.0,3406.0,8182.0
+51145,Powhatan,"Powhatan County, Virginia",47.0,39.7,2.77,24.33,1. Low poverty: <6%,1. Lower HS-or-less: <25%,8657.0,240.0,2106.0
+51155,Pulaski,"Pulaski County, Virginia",152.0,66.2,9.41,34.94,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,8758.0,824.0,3060.0
+51157,Rappahannock,"Rappahannock County, Virginia",5.0,20.7,4.19,34.66,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,2054.0,86.0,712.0
+51159,Richmond County,"Richmond County, Virginia",14.0,28.5,2.23,35.84,1. Low poverty: <6%,3. High HS-or-less: 35% to <45%,1836.0,41.0,658.0
+51167,Russell,"Russell County, Virginia",67.0,46.8,10.68,50.52,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,7147.0,763.0,3611.0
+51169,Scott,"Scott County, Virginia",14.0,79.7,16.34,47.9,4. Very high poverty: 14%+,4. Very high HS-or-less: 45%+,5491.0,897.0,2630.0
+51171,Shenandoah,"Shenandoah County, Virginia",81.0,29.4,8.18,45.9,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,11428.0,935.0,5246.0
+51173,Smyth,"Smyth County, Virginia",65.0,33.2,11.85,46.95,3. High poverty: 10% to <14%,4. Very high HS-or-less: 45%+,7829.0,928.0,3676.0
+51177,Spotsylvania,"Spotsylvania County, Virginia",230.0,27.6,5.27,30.03,1. Low poverty: <6%,2. Moderate HS-or-less: 25% to <35%,39433.0,2077.0,11840.0
+51179,Stafford,"Stafford County, Virginia",184.0,28.5,3.39,20.94,1. Low poverty: <6%,1. Lower HS-or-less: <25%,40582.0,1375.0,8499.0
+51800,Suffolk,"Suffolk city, Virginia",176.0,28.3,7.06,26.83,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,25829.0,1824.0,6929.0
+51183,Sussex,"Sussex County, Virginia",26.0,27.0,7.53,47.4,2. Moderate poverty: 6% to <10%,4. Very high HS-or-less: 45%+,2485.0,187.0,1178.0
+51185,Tazewell,"Tazewell County, Virginia",127.0,54.1,13.05,44.55,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,10687.0,1395.0,4761.0
+51810,Virginia Beach,"Virginia Beach city, Virginia",693.0,34.9,6.79,21.94,2. Moderate poverty: 6% to <10%,1. Lower HS-or-less: <25%,119563.0,8124.0,26235.0
+51193,Westmoreland,"Westmoreland County, Virginia",40.0,38.9,10.85,43.85,3. High poverty: 10% to <14%,3. High HS-or-less: 35% to <45%,4846.0,526.0,2125.0
+51830,Williamsburg,"Williamsburg city, Virginia","",31.8,8.01,25.32,2. Moderate poverty: 6% to <10%,2. Moderate HS-or-less: 25% to <35%,2697.0,216.0,683.0
+51197,Wythe,"Wythe County, Virginia",83.0,38.2,9.96,40.34,2. Moderate poverty: 6% to <10%,3. High HS-or-less: 35% to <45%,7881.0,785.0,3179.0
+51199,York,"York County, Virginia",64.0,37.9,3.22,14.15,1. Low poverty: <6%,1. Lower HS-or-less: <25%,19528.0,629.0,2764.0

@@ -1,0 +1,5 @@
+poverty_bucket,locality_count,avg_overdose_ed_rate,avg_poverty_rate,min_overdose_ed_rate,max_overdose_ed_rate
+1. Low poverty: <6%,31,32.46,4.17,16.1,48.5
+2. Moderate poverty: 6% to <10%,30,37.73,8.03,14.7,68.3
+3. High poverty: 10% to <14%,22,41.69,11.5,21.1,76.2
+4. Very high poverty: 14%+,6,55.12,17.39,38.1,79.7
